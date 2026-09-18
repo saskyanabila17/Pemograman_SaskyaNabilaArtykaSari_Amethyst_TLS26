@@ -7,7 +7,7 @@
 
 ---
 
-### Overview Proyek
+### Deskripsi Proyek
 Repository ini dibuat untuk memenuhi tugas Pemrograman Dasar TLS 2026. Seluruh program ditulis menggunakan bahasa C++ standar dengan batasan header `<iostream>`.
 
 ---
