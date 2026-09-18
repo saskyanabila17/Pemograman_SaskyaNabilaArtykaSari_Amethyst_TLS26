@@ -1,8 +1,8 @@
 # Pemograman_SaskyaNabilaArtykaSari_Amethyst_TLS26
 # TLS 2026: Pemrograman Dasar
 
-**Nama:** Saskya Nabila Artyka Sari   
-**Program studi:** Teknik Biomedis
+**Penyusun:** Saskya Nabila Artyka Sari    
+**Program Studi:** Teknik Biomedis  
 **Kelompok:** Amethyst  
 
 ---
